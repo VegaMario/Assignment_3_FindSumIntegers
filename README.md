@@ -17,3 +17,5 @@
   In other words, C represents the number of integers that will sum up to the number N. These are not given because it is up to us to decide what N and C will be. 
   
   In this program, I translate this equation into a QUBO matrix to be solved on a Quantum Annealer. 
+  
+  https://github.com/VegaMario/Assignment_3_FindSumIntegers
