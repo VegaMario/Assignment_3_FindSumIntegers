@@ -84,7 +84,6 @@ def main():
     print(sampleset)  # print the sampleset
     solution = print_result(sampleset.first.sample)  # print the best solution found
     print(check_result(solution, N, C))  # check if the best solution is correct
-    print("Hello World")
 
 
 if __name__ == '__main__':
