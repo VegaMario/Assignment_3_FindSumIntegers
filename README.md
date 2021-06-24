@@ -1,4 +1,4 @@
-# Assignment_3_FindSumIntegers
+# QC21su_Mario_3_FindSumIntegers
 
 ## This Quantum Annealing program solves the following problem:
 
