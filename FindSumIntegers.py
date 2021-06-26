@@ -76,8 +76,8 @@ def check_result(solution, N, C):
 def main():
     S = get_list(250)  # generate list by specifying the size
     N = 1156  # THis is the number we want a set of numbers to sum up to
-    C = 7  # this is the number of numbers that should be used in our solution
-    gamma = 500000  # we may need to increase this is if the obj-
+    C = 23  # this is the number of numbers that should be used in our solution
+    gamma = 5000  # we may need to increase this is if the obj-
     # ective function is too dominant and the constraint is not satisfied
     Q, offset = gen_QUBO(S, N, C, gamma)  # generate the QUBO and offset and store the results
     sampleset = solve_QUBO(Q, offset)  # obtain the sampleset
