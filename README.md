@@ -4,7 +4,7 @@
 
   For a given set S of n numbers, in the form of {1, 2, 3,..., n}, find a subset of C numbers that sum up to an integer N.
   For example, suppose that we have the set {1, 2, 3, 4, 5} and we want to find three integers that sum up to 8. A possible solution may be {1, 2, 5}. 
-  This program should be able to do this, but in a much larger scale if desired, like if given a set of 1000 numbers, find 357 numbers that sum up to 23,147. 
+  This program should be able to do this, but in a much larger scale if desired, like if given a set of 1000 numbers, find 357 numbers that sum up to 88,876. 
   
   This program requires the Dwave Ocean tools to run successfully. It is based on the QUBO model and is solved by the Quantum Annealer.
   
